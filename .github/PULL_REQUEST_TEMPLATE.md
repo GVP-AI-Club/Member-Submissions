@@ -3,7 +3,7 @@
 
 ## Submission Checklist :heavy_check_mark:
 
-[] I read the instructions to submit this assignment.<br>
-[] I created the submission files inside my folder, ```MY-USERNAME```.<br>
-[] I applied the ```week-number``` and ```submission``` labels. <br>
-[] I've read the Community Guidelines.
+- [] I read the instructions to submit this assignment.<br>
+- [] I created the submission files inside my folder, ```MY-USERNAME```.<br>
+- [] I applied the ```week-number``` and ```submission``` labels. <br>
+- [] I've read the Community Guidelines.
