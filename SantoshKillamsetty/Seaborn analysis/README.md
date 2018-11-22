@@ -1,0 +1,1 @@
+This folder contains my submission seaborn package analysis on titanic data set 
