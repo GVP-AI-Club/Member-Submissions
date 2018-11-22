@@ -1,0 +1,4 @@
+-Analysed Boston-House-Pricing.
+-trained on train.csv
+-tested on test.csv
+-result in result.csv 
