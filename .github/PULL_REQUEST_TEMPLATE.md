@@ -7,3 +7,4 @@
 - [] I created the submission files inside my folder, ```MY-USERNAME```.<br>
 - [] I applied the ```week-number``` and ```submission``` labels. <br>
 - [] I've read the Community Guidelines.
+- [] I've Updated .gitignore file to ignore unnecessary files.
